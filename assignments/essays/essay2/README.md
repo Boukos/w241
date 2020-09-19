@@ -2,7 +2,7 @@
 
 
 # General Task
-For this essay, propose an experiment that you would like to run for the final course project.  The project will be done in five-person teams.  We anticipate selecting, as a class, three of these proposals to execute for the final project. 
+For this essay, propose an experiment that you would like to run for the final course project.  The project will be done in between three and five-person teams.  We anticipate selecting, as a class, three of these proposals to execute for the final project. 
 
 Note that this experiment can be conducted either online (by recruiting subjects through Mechanical Turk, through advertising, through asking your Facebook friends to participate) or offline (perhaps at local schools or churches or coffee shops or public parks).  We expect a study with at least 100 observations. 
 
@@ -33,7 +33,7 @@ In your proposal, make sure to address:
 2. Do you intend to do blocking? If so, how and why? 
 3. What statistical analysis do you intend to do once the data are collected? 4. If possible, describe how you might do a pilot study with a small number of subjects, early in the project.  A pilot can often help us avoid egregious mistakes that could spoil the experiment. What do you see as the greatest risks to the experiment? What might go wrong? 
 
-We expect 3-4 pages, single-spaced.  Please post your proposal to the Essay 2 forum on the ISVC for our course section, ideally with a link to a Google Doc that you may revise later.  Please use the title of your message as the subject line for your forum message.  
+This task will probably require between 2 and 4 pages, single-spaced.  Please post your proposal to the Essay 2 forum on the ISVC for our course section, ideally with a link to a Google Doc that you may revise later.  Please use the title of your message as the subject line for your forum message.  
 
 After posting your paper the day before class, make sure to read, before class, the drafts posted by the partners we have assigned to you.  We will use part of the class session to give each other feedback for improvement.
 
